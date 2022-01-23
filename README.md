@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohd Suhail
-- 👀 I’m interested in new drug discovery, bioinformatics, computational biochemistry, analytical chemistry and docking study
+- 👀 I’m interested in new drug discovery, cheminformatics, bioinformatics, computational biochemistry, analytical chemistry and docking study.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on new drug discovery based research
 - 📫 How to reach me suhailchem.786@gmail.com
